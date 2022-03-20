@@ -132,3 +132,5 @@ dmypy.json
 /.idea/
 /classification_csvs/
 .DS_Store
+temp.dot
+temp.png

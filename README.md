@@ -19,4 +19,4 @@ Accuracy on training data =  1.0
 Accuracy on test data =  0.8333333333333334
 
 
-![Decision tree of the normal decision tree classifier visualised](tree.png)
+![Decision tree of the normal decision tree classifier visualised](calssification_tree_viz.png)
