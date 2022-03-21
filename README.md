@@ -35,7 +35,7 @@ The people who can benefit from this project are firstly the teammates who will 
 
 
 ## Visualization
-For the details of the visulization notebook, please go to the importer-and-visualization branch.
+For the details of the visualization notebook, please go to the importer-and-visualization branch.
 
 ## Classification
 The aim of the classification part was to investigate if its possible to predict the constructor championship 
