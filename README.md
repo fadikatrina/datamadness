@@ -12,7 +12,7 @@ The data source was carefully checked, however, there exist some errors, for exa
 
 3. Are there considerations about the analysis you made?
 
-The data is not fully complete, for example, qualifying results are available from 1994 but only fully completed from the year 2003. Similarly, lap time data is supported from the 1996 season onwards and pit stop data is available from the 2012 season onwards. Therefore, our visualizations can only aggregate data and draw conclusions from those years.
+The data is not fully complete, for example, qualifying results are only fully available from the year 2003. Similarly, lap time data is supported from the 1996 season onwards and pit stop data is available from the 2012 season onwards. Therefore, our visualizations can only aggregate data and draw conclusions from those years.
 
 4. Did you have to make decisions that affect the analysis?
 
@@ -20,7 +20,12 @@ We have to find and drop some NaN rows/columns in some dataframes, which limits 
 
 5. What are the limitations of your analysis and your conclusions?
 
+<<<<<<< HEAD
 Since qualifying times for the upcoming season are not yet available, it is not possible to predict the race outcomes for next season with our current model. Moreover, due to the limited time and scope of the study, we could not incorporate the weather data into the analysis.
+=======
+Since qualifying time for next season are not yet available, it is not possible to predict
+race outcomes for next season. Moreover, due to the limited time and scope of the study, we could not incorporate the weather data into the analysis.
+>>>>>>> 3567f8652b781d5f3543f7d7cee5f691a19a25e9
 
 6. Who are the stakeholders of your project?
 
