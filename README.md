@@ -8,7 +8,7 @@ non-commercial use.
 
 2. Did you check the source?
 
-The data source was carefully checked, however, there exist some errors, for example, the data incorrectly registers one instance of Bottas’s crash in the Hungarian Grand Prix in 2021, and some missing data.
+The data source was carefully checked, however, there exist some errors, for example, the data incorrectly registers one instance of Bottas’s crash in the Imola in 2021, and some missing data.
 
 3. Are there considerations about the analysis you made?
 
