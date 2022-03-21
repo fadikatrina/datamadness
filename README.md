@@ -20,12 +20,7 @@ We have to find and drop some NaN rows/columns in some dataframes, which limits 
 
 5. What are the limitations of your analysis and your conclusions?
 
-<<<<<<< HEAD
 Since qualifying times for the upcoming season are not yet available, it is not possible to predict the race outcomes for next season with our current model. Moreover, due to the limited time and scope of the study, we could not incorporate the weather data into the analysis.
-=======
-Since qualifying time for next season are not yet available, it is not possible to predict
-race outcomes for next season. Moreover, due to the limited time and scope of the study, we could not incorporate the weather data into the analysis.
->>>>>>> 3567f8652b781d5f3543f7d7cee5f691a19a25e9
 
 6. Who are the stakeholders of your project?
 
