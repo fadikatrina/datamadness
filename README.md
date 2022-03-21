@@ -1,6 +1,29 @@
 # Datamadness
 
 ## Ethical consideration
+1. How did you get the data (legally...)?
+The data was obtain from the Ergast Developer API, which is freely available for 
+non-commercial use.
+
+2. Did you check the source?
+The data source was carefully checked, however, there exist some errors, for example, the data incorrectly registers one instance of Bottas’s crash in the Hungarian Grand Prix in 2021, and some missing data.
+
+3. Are there considerations about the analysis you made?
+The data is not fully complete, for example, qualifying results are only fully available from the year 2003. Similarly, lap time data is supported from the 1996 season onwards and pit stop data is available from the 2012 season onwards. Therefore, our visualizations can only aggregate data and draw conclusions from those years.
+
+4. Did you have to make decisions that affect the analysis?
+We have to find and drop some NaN rows/columns in some dataframes, 
+which limits the input for our analysis.
+
+5. What are the limitations of your analysis and your conclusions?
+Since qualifying time for this season are not yet available, it is not possible to predict
+race outcomes for next season. Moreover, due to the limited time and scope of the study, we could not incorporate the weather data into the analysis.
+
+6. Who are the stakeholders of your project?
+The stakeholders of the project are teammates: Gabriel, Fadi, Thao.
+
+7. Who can benefit from this project, who can be harmed, who is excluded, etc.
+The people who can benefit from this project are firstly the teammates who will get graded. Secondly, the output of the project is relevant for F1 fans who are interested in the development of this sport and the factors that influence race outcomes. The project is mostly for recreational purposes and uses only publicly available data, thus, it is safe to say that no one can be harmed from this project.
 
 
 
