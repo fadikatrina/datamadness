@@ -13,6 +13,6 @@ The relationship between variables such as driver age, win counts, qualifying po
 It seems that drivers have certain prime time in their carreer.
 
 Moreover, qualifying seems to be a good predictor of the race outcome:
-![Qualifying position versus finisihng position](qualifyinh_finishing.png)
+![Qualifying position versus finisihng position](qualifying_finishing.png)
 
 The `heatmaps.zip` file contains the evolution of the reasons for (not) finishing a race from 1950 to 2021.
