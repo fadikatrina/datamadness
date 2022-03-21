@@ -1,6 +1,8 @@
 # Datamadness
 
-## Video presentation
+## Video 
+
+We have created a short 2-minute video, highlighting our main findings. Here is a Link to YouTube:
 
 [![THUMBNAIL](https://img.youtube.com/vi/d8j3hbHltj8/0.jpg)](https://www.youtube.com/watch?v=d8j3hbHltj8)
 
