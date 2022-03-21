@@ -7,7 +7,6 @@ In the `Data madness visualization.ipynb notebook`, you will find an exploration
 (i.e., the heatmap distribution of the time pitstops happen in the race, how number of pitstops changes over the year)
 ![heatmap](Distribution of pitstops.png)
 
-
 The relationship between variables such as driver age, win counts, qualifying position, finishing position. 
 ![Wincounts](Win_counts_per_age.jpg)
 It seems that drivers have certain prime time in their carreer.
