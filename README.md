@@ -35,8 +35,7 @@ The people who can benefit from this project are firstly the teammates who will 
 
 
 ## Visualization
-In the `Data madness visualization.ipynb notebook`, you will find an exploration of the development of the F1 sport over the years and/or across different circuits (i.e., the heatmap distribution of the time pitstops happen in the race, how number of pitstops changes over the year, relationship variables such as driver age, win counts, qualifying position, finishing position. It seems that qualifying is a good predictor of the race outcome:
-![Qualifying position versus finisihng position](qualifyinh_finishing.png)
+For the details of the visulization notebook, please go to the importer-and-visualization branch.
 
 ## Classification
 The aim of the classification part was to investigate if its possible to predict the constructor championship 
