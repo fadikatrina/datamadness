@@ -5,7 +5,7 @@
 
 
 ## Visualization
-In the `Data madness visualization.ipynb notebook`, you will find an exploration of the development of the F1 sport over the years and/or across different circuits (i.e., the heatmap distribution of the time pitstops happen in the race, how number of pitstops changes over the year, relationship variables such as driver age, win counts, qualifying position, finishing position. It seems that qualifying seems to be a good predictor of the race outcome:
+In the `Data madness visualization.ipynb notebook`, you will find an exploration of the development of the F1 sport over the years and/or across different circuits (i.e., the heatmap distribution of the time pitstops happen in the race, how number of pitstops changes over the year, relationship variables such as driver age, win counts, qualifying position, finishing position. It seems that qualifying is a good predictor of the race outcome:
 ![Qualifying position versus finisihng position](qualifyinh_finishing.png)
 
 ## Classification
