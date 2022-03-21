@@ -1,5 +1,10 @@
 # Datamadness
 
+## Video presentation
+
+[![THUMBNAIL](https://img.youtube.com/vi/d8j3hbHltj8/0.jpg)](https://www.youtube.com/watch?v=d8j3hbHltj8)
+
+
 ## Ethical consideration
 ### 1. How did you get the data (legally...)?
 
