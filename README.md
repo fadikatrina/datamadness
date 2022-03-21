@@ -21,7 +21,7 @@ which limits the input for our analysis.
 
 5. What are the limitations of your analysis and your conclusions?
 
-Since qualifying time for this season are not yet available, it is not possible to predict
+Since qualifying time for next season are not yet available, it is not possible to predict
 race outcomes for next season. Moreover, due to the limited time and scope of the study, we could not incorporate the weather data into the analysis.
 
 6. Who are the stakeholders of your project?
